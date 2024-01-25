@@ -1,0 +1,21 @@
+table,th,td{
+    border:1px solid black
+}
+body{
+    background-image:url(https://mandrelectronics.com/wp-content/uploads/2022/04/CPS-Hancock-1.png);
+}
+th{
+    color:aliceblue
+}
+td{
+    color:whitesmoke
+}
+.box{
+    height:80px;
+    width:80px;
+    background:red;
+    margin:15px;
+}
+table{
+    background-color:maroon
+}
